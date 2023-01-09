@@ -1,6 +1,8 @@
 # SignaMed [WEB]
 
-Este es el repositorio de la página web oficial del proyecto SignaMed, accesible en https://signamed.web.app/
+Repositorio de el servicio web SignaMed accesible en https://signamed.web.app/
+
+Para obtener más información sobre el proyecto visite https://signamed.uvigo.es/
 
 ### Enlaces de las webs de pruebas con su tiempo de caducidad:
 
