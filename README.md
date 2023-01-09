@@ -1,8 +1,8 @@
 # SignaMed [WEB]
 
-Repositorio de el servicio web SignaMed accesible en https://signamed.web.app/
+Repositorio público de la aplicación web llamada "SignaMed", accesible mediante el siguente link: https://signamed.web.app/
 
-Para obtener más información sobre el proyecto visite https://signamed.uvigo.es/
+Para obtener más información sobre el proyecto visite: https://signamed.uvigo.es/
 
 ### Enlaces de las webs de pruebas con su tiempo de caducidad:
 
