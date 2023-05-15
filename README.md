@@ -6,9 +6,9 @@ Para obtener más información sobre el proyecto visite: https://signamed.uvigo.
 
 ### Enlaces de las webs de pruebas con su tiempo de caducidad:
 
-- Beta testing (17/05/2023) : https://signamed--beta-testing-afe9elog.web.app
-- Beta upload (11/05/2023) : https://signamed--beta-upload-9o7zdfmq.web.app
-- Link puertas abiertas (11/05/2023) : https://signamed--puertas-abiertas-adrnxq83.web.app
+- Beta testing (15/06/2023) : https://signamed--beta-testing-afe9elog.web.app
+- Beta upload (15/06/2023) : https://signamed--beta-upload-9o7zdfmq.web.app
+- Link puertas abiertas (15/06/2023) : https://signamed--puertas-abiertas-adrnxq83.web.app
 
 ### Screenhots Signamed web:
 
